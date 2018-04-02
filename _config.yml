@@ -1,9 +1,11 @@
 # Site settings
-title: Lens
-description: Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a>
+title: Véro + John
+description: sneak peek of photos from Tipsy, 31st March 2018
 baseurl: "/lens_31mar18_tipsy" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
+image_dir: "assets/images/1200x750/"
+image_tn_dir: "assets/images/360x225/"
 
 # Collection settings
 collections:
@@ -13,13 +15,13 @@ collections:
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url:
+googleplus_url:
+instagram_url: https://www.instagram.com/explore/tags/veroetjohn/
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url:
 
 # Build settings
 markdown: kramdown
